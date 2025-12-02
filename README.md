@@ -16,6 +16,18 @@ python 3.10+
 pip install -r requirements.txt
 ````
 
+## Inspirations
+
+The initial cube and sandpile experiments were inspired by
+the sandpile simulations demonstrated in Veritasium’s
+videos and interactive examples:
+
+- Sandpile Avalanche Simulation <https://www.veritasium.com/simulation3>
+- 2D Ising Model: Criticality <https://www.veritasium.com/simulation4>
+- Forest Fire Model (Drossel–Schwabl) <https://www.veritasium.com/simulation5>
+
+The code in this repository is an independent implementation.
+
 Main Python deps:
 
 * numpy

@@ -97,3 +97,22 @@ Together, they form the computational backbone for the work described in the Zen
 ```
 ::contentReference[oaicite:0]{index=0}
 ```
+## Inspirations
+
+The initial cube and sandpile experiments were inspired by
+the sandpile simulations demonstrated in Veritasium’s
+videos and interactive examples:
+
+- Sandpile Avalanche Simulation <https://www.veritasium.com/simulation3>
+- 2D Ising Model: Criticality <https://www.veritasium.com/simulation4>
+- Forest Fire Model (Drossel–Schwabl) <https://www.veritasium.com/simulation5>
+
+The code in this repository is an independent implementation.
+
+Main Python deps:
+
+* numpy
+* matplotlib
+* scipy (for fitting, if used)
+
+## Simulations

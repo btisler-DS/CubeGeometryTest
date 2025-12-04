@@ -1,0 +1,3 @@
+Who is most at risk when AI systems drift into false certainty?
+Where would a system like this cubic backstop actually be deployed?
+When does an AI cross the line from helpful speculation into harmful delusion?

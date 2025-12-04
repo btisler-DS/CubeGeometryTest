@@ -7,7 +7,7 @@ print(">>> cube_WWWWHW_optionA_flux_true.py starting up...")
 L = 12                # cube size
 THRESHOLD = 6         # topple threshold
 BURN_IN_STEPS = 5_000
-MEASURE_STEPS = 5_000
+MEASURE_STEPS = 2_000
 RANDOM_SEED = 123
 
 # Asymmetry: WHY face is a mild attractor (same as original Option A)

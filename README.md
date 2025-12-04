@@ -6,8 +6,6 @@ This repository contains the code and figures for two related but distinct piece
 1. **cube_geometry/** – Self-organized criticality (SOC) experiments on a cube with WWWWHW geometry.
 2. **inquiry_studio/** – The cubic interrogative instrument used in the paper, which measures interrogative entropy and answer-side behavior for local LLM runs.
 
-The Zenodo entry for the paper points to this repository as the canonical artifact.
-
 ---
 
 ## Repository Layout

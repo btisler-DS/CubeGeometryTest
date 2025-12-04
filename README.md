@@ -8,6 +8,8 @@ This repository contains the code and figures for two related but distinct piece
 
 The Zenodo entry for the paper points to this repository as the canonical artifact.
 
+A literature reconnaissance report is included in `/docs/literature` for transparency.  
+It documents search scope and context but does not function as validation or endorsement.
 ---
 
 ## Repository Layout
